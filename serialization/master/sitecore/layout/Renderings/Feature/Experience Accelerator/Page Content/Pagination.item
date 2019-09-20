@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {390954AF-B5B3-4A61-928E-0FF2E1E78F94}
+database: master
+path: /sitecore/layout/Renderings/Feature/Experience Accelerator/Page Content/Pagination
+parent: {EAD24A34-436F-4D59-B67A-44D45ED4A75C}
+name: Pagination
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20181112T123311Z
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 96
+
+Sitecore.XA.Feature.PageContent.Controllers.PaginationController,Sitecore.XA.Feature.PageContent
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 5
+
+Index
+----field----
+field: {13F89250-AD6B-4548-882E-118A12C18094}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{366F6F24-0F8D-4F8D-98CC-01622DF9A6AF}
+----field----
+field: {94069F66-609C-48B0-8281-521C30FB269D}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+0
+----field----
+field: {34E81E40-1D4D-45B0-BCF1-A0FFE5521685}
+name: RenderingCssClass
+key: renderingcssclass
+content-length: 15
+
+list-pagination
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 140
+
+query:$site/*[@@name='Data']/*[@@templatename='Pagination Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Pagination Folder']
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 91
+
+/sitecore/templates/Feature/Experience Accelerator/Page Content/Page Selector Configuration
+----field----
+field: {A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}
+name: Page Editor Buttons
+key: page editor buttons
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 32
+
+Office/32x32/navigate_right2.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 6429292d-5a06-4089-b3aa-b4b1fb6af3e6
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150512T115127Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6429292d-5a06-4089-b3aa-b4b1fb6af3e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181112T123311Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

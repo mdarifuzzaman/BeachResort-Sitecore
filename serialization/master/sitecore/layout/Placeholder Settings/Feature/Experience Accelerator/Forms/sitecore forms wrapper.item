@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {66684733-6EC9-4B66-8D6D-72591FF24E59}
+database: master
+path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/Forms/sitecore forms wrapper
+parent: {7ECB5AE1-6B22-4C8C-BBAD-C04313546665}
+name: sitecore forms wrapper
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20181112T124036Z
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 21
+
+sitecoreformswrapper*
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 38
+
+{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+375
+----version----
+language: en
+version: 1
+revision: 8993a0a8-1ed4-497a-8fd8-be05f4099644
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150323T163420Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8993a0a8-1ed4-497a-8fd8-be05f4099644
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181112T124036Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

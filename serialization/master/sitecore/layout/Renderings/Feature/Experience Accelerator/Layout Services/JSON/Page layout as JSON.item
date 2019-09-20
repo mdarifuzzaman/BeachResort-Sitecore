@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {AFA8325E-9653-4E88-8839-1777A56B5FB1}
+database: master
+path: /sitecore/layout/Renderings/Feature/Experience Accelerator/Layout Services/JSON/Page layout as JSON
+parent: {302F63E3-2214-4D85-B9D4-88544C8DD723}
+name: Page layout as JSON
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20181112T122957Z
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 130
+
+Sitecore.XA.Feature.LayoutServices.Integration.Controllers.PageLayoutJsonController,Sitecore.XA.Feature.LayoutServices.Integration
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 5
+
+Index
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 30
+
+Office/32x32/insert_option.png
+----version----
+language: en
+version: 1
+revision: 158ad711-320e-4147-a581-13e7377b859e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170419T124025Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+158ad711-320e-4147-a581-13e7377b859e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181112T122957Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

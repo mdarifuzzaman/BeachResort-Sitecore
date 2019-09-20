@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {08CBA50E-4C98-47F3-B05A-3A6785476E66}
+database: master
+path: /sitecore/templates/User Defined/_PageBase/Page Base Information
+parent: {D708E03F-3763-46F7-BC02-524014BFC8D1}
+name: Page Base Information
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+created: 20190917T234253Z
+
+----version----
+language: en
+version: 1
+revision: 1478f5dd-58d9-4920-ab48-5c4ee5ed56a2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190917T234253Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1478f5dd-58d9-4920-ab48-5c4ee5ed56a2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190917T234253Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

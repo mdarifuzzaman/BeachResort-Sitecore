@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {98A680B5-8527-47B8-AA0C-6C99F8E56E8B}
+database: master
+path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/Navigation/link
+parent: {1B8AAB12-754E-4793-8254-5EB58EFA65E1}
+name: link
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20181112T123249Z
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 5
+
+link*
+----version----
+language: en
+version: 1
+revision: 2956ffe8-4c0b-477e-baef-ef0702ea6a36
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160901T083705Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2956ffe8-4c0b-477e-baef-ef0702ea6a36
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181112T123249Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

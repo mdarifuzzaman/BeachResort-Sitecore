@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {619D4185-E73C-4C51-8407-3927E4812B98}
+database: master
+path: /sitecore/layout/Renderings/Feature/Experience Accelerator/StickyNotes/StickyNote
+parent: {AD2264CF-F4B7-4315-9AF8-D31B5730C2BA}
+name: StickyNote
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20181112T123938Z
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 96
+
+Sitecore.XA.Feature.StickyNotes.Controllers.StickyNoteController,Sitecore.XA.Feature.StickyNotes
+----field----
+field: {94069F66-609C-48B0-8281-521C30FB269D}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+0
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 28
+
+Office/32x32/note_pinned.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: dcb6767d-a7e5-4a6f-9b75-c5954fdd0bc0
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160517T073647Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dcb6767d-a7e5-4a6f-9b75-c5954fdd0bc0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181112T123938Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

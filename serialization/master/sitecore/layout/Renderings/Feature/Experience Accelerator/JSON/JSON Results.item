@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {E082338F-800E-42FE-8AED-87F586960F24}
+database: master
+path: /sitecore/layout/Renderings/Feature/Experience Accelerator/JSON/JSON Results
+parent: {B98E8878-A735-42BE-B7DC-B97AA792035B}
+name: JSON Results
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20181112T122956Z
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 83
+
+Sitecore.XA.Feature.Json.Controllers.JsonResultsController,Sitecore.XA.Feature.Json
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 5
+
+Index
+----field----
+field: {13F89250-AD6B-4548-882E-118A12C18094}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{48FB6B99-2593-46EF-9C46-86E51E434DA2}
+----field----
+field: {94069F66-609C-48B0-8281-521C30FB269D}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+0
+----field----
+field: {34E81E40-1D4D-45B0-BCF1-A0FFE5521685}
+name: RenderingCssClass
+key: renderingcssclass
+content-length: 12
+
+json-results
+----field----
+field: {E829C217-5E94-4306-9C48-2634B094FDC2}
+name: OtherProperties
+key: otherproperties
+content-length: 40
+
+IsRenderingsWithDynamicPlaceholders=true
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 31
+
+Office/32x32/selection_view.png
+----version----
+language: en
+version: 1
+revision: bfec0744-c9a0-4122-98f3-d48551dcb07e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T131759Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bfec0744-c9a0-4122-98f3-d48551dcb07e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181112T122956Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,29 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@using Sitecore.Mvc.Presentation
+@using System.Runtime
+
+<html>
+<head>
+    @Html.Sitecore().VisitorIdentification()
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Resources/App.css" />
+</head>
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+        <nav class="navbar">
+            @Html.Sitecore().Placeholder("navbar")
+        </nav>
+
+       @Html.Sitecore().Placeholder("hero")
+ 
+        <section class="services">
+            @Html.Sitecore().Placeholder("services")
+        </section>
+
+        @Html.Sitecore().Placeholder("root")
+    </div>
+    
+</body>
+</html>

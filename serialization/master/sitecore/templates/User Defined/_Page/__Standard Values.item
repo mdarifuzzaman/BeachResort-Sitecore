@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {43F9E4FE-F320-4B41-BB70-FDF1C4FF402D}
+database: master
+path: /sitecore/templates/User Defined/_Page/__Standard Values
+parent: {0BFE99B1-F7C3-49CB-94B2-9A9281773C66}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {0BFE99B1-F7C3-49CB-94B2-9A9281773C66}
+templatekey: _Page
+created: 20190918T000413Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 357
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{F9221859-0F6C-4646-8FB3-ECAD1524AE88}"><r id="{A2B61BEE-FA02-4249-BA7F-9C76754C27D0}" ph="navbar" uid="{B0237C88-3280-43AC-B7C1-01A38BDD2FD0}" /><r id="{1BC27F72-48FD-415F-8547-615B5951F8B7}" ph="hero" uid="{D83BF222-C19B-4887-AFE3-9301E199EF3E}" /></d></r>
+----version----
+language: en
+version: 1
+revision: d1616255-f3a6-42d6-bafb-16f9b3e94039
+
+----field----
+field: {335E6992-0810-4FB9-B066-36D183271AB4}
+name: PageTitle
+key: pagetitle
+content-length: 5
+
+$name
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190918T000413Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d1616255-f3a6-42d6-bafb-16f9b3e94039
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190918T042500Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
