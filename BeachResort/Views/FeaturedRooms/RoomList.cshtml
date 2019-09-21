@@ -1,0 +1,29 @@
+﻿@using Sitecore.Globalization
+@model List<BeachResort.Models.FeaturedRoom>
+
+@if(Model.Count == 0)
+{
+     <div class="empty-search">
+        <h3>Unfortunately no room found.</h3>
+    </div>
+ } else{ 
+     <section class="roomslist">
+         <div class="roomslist-center">
+
+             @foreach (var item in Model)
+             {
+                 <article class="room">
+                     <div class="img-container">
+                         @item.MainImage
+                         <div class="price-top">
+                             <h6>$@item.Price</h6>
+                             <p>per night</p>
+                         </div>
+                         <a href='/Home/Featured Room?name=@item.Name' class="btn-primary room-link">Features</a>
+                     </div>
+                     <p class="room-info">@item.Name</p>
+                 </article>
+                }
+         </div>
+     </section>
+}

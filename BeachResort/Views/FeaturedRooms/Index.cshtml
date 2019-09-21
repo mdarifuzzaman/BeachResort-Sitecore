@@ -1,0 +1,25 @@
+﻿@using Sitecore.Globalization
+@model List<BeachResort.Models.FeaturedRoom>
+
+<section class="featured-rooms">
+    <div class="section-title">
+        <h4>Featured Rooms</h4>
+        <div></div>
+    </div>
+    <div class="featured-rooms-center">
+        @foreach (var featureRoom in Model)
+        {
+            <article class="room">
+                <div class="img-container">
+                    @featureRoom.MainImage
+                    <div class="price-top">
+                        <h6>$@featureRoom.Price</h6>
+                        <p>per night</p>
+                    </div>
+                    <a href='/Home/Featured Room?name=@featureRoom.Name' class="btn-primary room-link">Features</a>
+                </div>
+                <p class="room-info">@featureRoom.Name</p>
+            </article>
+        }
+    </div>
+</section>

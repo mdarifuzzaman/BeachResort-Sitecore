@@ -1,21 +1,23 @@
 ﻿@using Sitecore.Globalization
 @model List<BeachResort.Models.ServiceModel>
 
-<div class="section-title">
-    <h4>Service</h4>
-    <div>
+<section class="services">
+    <div class="section-title">
+        <h4>Service</h4>
+        <div>
+        </div>
     </div>
-</div>
-<div class="services-center">
+    <div class="services-center">
 
-    @foreach (var data in Model)
-    {
-        <article class="service">
-            <span>@data.ServiceImage</span>
-            <h6>@data.Title</h6>
-            <p>
-                @data.Info
-            </p>
-        </article>
-    }
-</div>
+        @foreach (var data in Model)
+        {
+            <article class="service">
+                <span>@data.ServiceImage</span>
+                <h6>@data.Title</h6>
+                <p>
+                    @data.Info
+                </p>
+            </article>
+        }
+    </div>
+</section>

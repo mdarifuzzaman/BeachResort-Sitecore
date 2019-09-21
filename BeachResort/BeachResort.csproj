@@ -51,13 +51,13 @@
       <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.2.1.1\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\..\..\..\..\..\inetpub\wwwroot\xp901.sc\bin\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\inetpub\wwwroot\sc92sc.dev.local\bin\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Mvc">
-      <HintPath>..\..\..\..\..\..\inetpub\wwwroot\xp901.sc\bin\Sitecore.Mvc.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\inetpub\wwwroot\sc92sc.dev.local\bin\Sitecore.Mvc.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Mvc.Analytics">
-      <HintPath>..\..\..\..\..\..\inetpub\wwwroot\xp901.sc\bin\Sitecore.Mvc.Analytics.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\inetpub\wwwroot\sc92sc.dev.local\bin\Sitecore.Mvc.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Numerics" />
@@ -107,7 +107,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\FeaturedRoomsController.cs" />
     <Compile Include="Controllers\ServiceController.cs" />
+    <Compile Include="Models\FeaturedRoom.cs" />
     <Compile Include="Models\ServiceModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -148,6 +150,9 @@
     <Content Include="Views\Banner.cshtml" />
     <Content Include="Views\Service\Index.cshtml" />
     <Content Include="Views\RoomBanner.cshtml" />
+    <Content Include="Views\FeaturedRooms\Index.cshtml" />
+    <Content Include="Views\FeaturedRooms\Featured.cshtml" />
+    <Content Include="Views\FeaturedRooms\RoomList.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
