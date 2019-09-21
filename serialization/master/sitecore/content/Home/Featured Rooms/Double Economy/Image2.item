@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {A748B56C-F33C-4D36-B333-15B299F621D3}
+database: master
+path: /sitecore/content/Home/Featured Rooms/Double Economy/Image2
+parent: {E4D0779F-C591-43CD-B646-076603F6048B}
+name: Image2
+master: {00000000-0000-0000-0000-000000000000}
+template: {4B8EF717-6B87-42E2-B026-462CA1E92AEB}
+templatekey: _FeatureRoomImage
+created: 20190921T055223Z
+
+----version----
+language: en
+version: 1
+revision: 56a81c4a-f021-4a36-b415-4cb7ab562e03
+
+----field----
+field: {68C05F46-1802-422D-B865-F88596862722}
+name: Image
+key: image
+content-length: 112
+
+<image mediaid="{2D01E011-05FE-4CFD-83FF-926BDB06D2DA}" alt="" height="auto" width="auto" hspace="" vspace="" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190920T124247Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+56a81c4a-f021-4a36-b415-4cb7ab562e03
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190920T230144Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

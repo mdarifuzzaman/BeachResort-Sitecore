@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {270F3D68-458C-4FD3-8218-A29CC70AA479}
+database: master
+path: /sitecore/content/Home/Featured Rooms/Single Economic
+parent: {EDFB5125-99AB-46FC-B0A0-65FB4DADF931}
+name: Single Economic
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A69FC6F-84A5-4B50-A178-9E0B01DF4289}
+templatekey: _FeaturedRoom
+created: 20190921T051204Z
+
+----version----
+language: en
+version: 1
+revision: c6f6f007-d9ae-4f04-ae43-7f8263763d3f
+
+----field----
+field: {C07339D7-AF1E-4A10-94B8-0A1111F0012A}
+name: MainImage
+key: mainimage
+content-length: 112
+
+<image mediaid="{8D86B1A5-DA74-4F00-B153-A54083DDCC97}" alt="" height="auto" width="auto" hspace="" vspace="" />
+----field----
+field: {CE4F774B-624A-4316-97B5-961BA721D9F7}
+name: Details
+key: details
+content-length: 584
+
+Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.
+----field----
+field: {E8C4A98D-93B6-44AC-B422-23E168F093E3}
+name: Extras
+key: extras
+content-length: 309
+
+<ul class="extras">
+    <li> Plush pillows and breathable bed linens</li>
+    <li> Soft, oversized bath towels</li>
+    <li> Complimentary refreshments </li>
+    <li> Full-sized, pH-balanced toiletries </li>
+    <li> Adequate safety/security </li>
+    <li> Internet </li>
+    <li> Comfortable beds </li>
+</ul>
+----field----
+field: {BC78C697-F730-46EC-BDE1-595F7AF14D2F}
+name: Featured
+key: featured
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190920T122522Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c6f6f007-d9ae-4f04-ae43-7f8263763d3f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190921T051208Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

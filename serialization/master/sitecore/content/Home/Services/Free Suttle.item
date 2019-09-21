@@ -13,7 +13,7 @@ created: 20190918T043426Z
 ----version----
 language: en
 version: 1
-revision: b114c9c2-20a6-4453-a65c-9d3fc84eabea
+revision: 3e917ac3-3297-4ac4-9a15-c30ed571b503
 
 ----field----
 field: {E43FE012-997B-46C5-AD34-3C9D2A84D1F4}
@@ -26,9 +26,9 @@ Free Suttle
 field: {2943EB49-E403-46DA-89FE-B8F8DB69420E}
 name: ServiceIcon
 key: serviceicon
-content-length: 115
+content-length: 109
 
-<image mediaid="{7DD11F5B-A5DA-4932-BD7B-503B816FADC7}" alt="" height="50" width="50" hspace="" vspace="" ></image>
+<image mediaid="{4F066DE2-FB80-46D8-90F8-C06A3EF7CF28}" alt="" height="66" width="100" hspace="" vspace="" />
 ----field----
 field: {4C2DC62B-45B0-48A3-8086-18FC25ADEF1B}
 name: ServiceInfo
@@ -63,21 +63,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b114c9c2-20a6-4453-a65c-9d3fc84eabea
+3e917ac3-3297-4ac4-9a15-c30ed571b503
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20190919T052927Z
+20190921T030332Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\Admin
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock

@@ -16,11 +16,11 @@ name: __Renderings
 key: __renderings
 content-length: 357
 
-<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{F9221859-0F6C-4646-8FB3-ECAD1524AE88}"><r id="{A2B61BEE-FA02-4249-BA7F-9C76754C27D0}" ph="navbar" uid="{B0237C88-3280-43AC-B7C1-01A38BDD2FD0}" /><r id="{1BC27F72-48FD-415F-8547-615B5951F8B7}" ph="hero" uid="{D83BF222-C19B-4887-AFE3-9301E199EF3E}" /></d></r>
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{07099DF3-82E5-4F2E-8103-A88D0066C709}"><r id="{A2B61BEE-FA02-4249-BA7F-9C76754C27D0}" ph="navbar" uid="{B0237C88-3280-43AC-B7C1-01A38BDD2FD0}" /><r id="{1BC27F72-48FD-415F-8547-615B5951F8B7}" ph="hero" uid="{D83BF222-C19B-4887-AFE3-9301E199EF3E}" /></d></r>
 ----version----
 language: en
 version: 1
-revision: d1616255-f3a6-42d6-bafb-16f9b3e94039
+revision: e2c402cb-6d6f-4606-855e-808bca3627d8
 
 ----field----
 field: {335E6992-0810-4FB9-B066-36D183271AB4}
@@ -56,18 +56,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d1616255-f3a6-42d6-bafb-16f9b3e94039
+e2c402cb-6d6f-4606-855e-808bca3627d8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20190918T042500Z
+20190920T090351Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\Admin

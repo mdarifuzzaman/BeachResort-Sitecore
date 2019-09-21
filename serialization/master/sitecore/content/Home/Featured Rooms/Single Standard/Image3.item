@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {7BDC0C65-EE22-4173-8B10-74DFACCFB3A5}
+database: master
+path: /sitecore/content/Home/Featured Rooms/Single Standard/Image3
+parent: {E820D426-D000-44A1-96C3-ACC88B094527}
+name: Image3
+master: {00000000-0000-0000-0000-000000000000}
+template: {4B8EF717-6B87-42E2-B026-462CA1E92AEB}
+templatekey: _FeatureRoomImage
+created: 20190921T055150Z
+
+----version----
+language: en
+version: 1
+revision: fc64fa51-43ae-4dd2-80dd-a55c83b6226b
+
+----field----
+field: {68C05F46-1802-422D-B865-F88596862722}
+name: Image
+key: image
+content-length: 112
+
+<image mediaid="{29A453CF-0956-498D-A07C-5BA12EB08E4E}" alt="" height="auto" width="auto" hspace="" vspace="" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190920T124252Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fc64fa51-43ae-4dd2-80dd-a55c83b6226b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190920T230155Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
